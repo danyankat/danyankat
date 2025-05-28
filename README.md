@@ -1,5 +1,5 @@
 <!--![logo]()-->
-<h1 style="text-align: center;">STILLVANE</h1>
+<h1 align="center">STILLVANE</h1>
 Just a random dev on the web...
 
 ## Languages and Tools
