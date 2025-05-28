@@ -1,5 +1,5 @@
-<!--![logo](https://stillvane.github.io/about-me/src/media/img/stillvane_logo.png)-->
-# STILLVANE
+<!--![logo]()-->
+<h1 style="text-align: center;">STILLVANE</h1>
 Just a random dev on the web...
 
 ## Languages and Tools
